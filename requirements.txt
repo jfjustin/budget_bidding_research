@@ -1,0 +1,15 @@
+# Core scientific stack for simulation + analysis.
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+matplotlib>=3.8
+pyyaml>=6.0
+
+# Testing
+pytest>=8.0
+
+# Optional (uncomment as needed)
+# cvxpy>=1.4          # for LP/convex offline optima and risk-constrained duals
+# jupyter>=1.0        # notebooks for exploratory analysis
+# seaborn>=0.13       # nicer plots for the paper
+# tqdm>=4.66          # progress bars for long sweeps
