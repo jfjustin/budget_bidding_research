@@ -274,5 +274,3 @@ Structure (target 8 pages workshop / longer for arXiv):
 
 ---
 
-*Keep this file alive. When reality diverges from the plan, edit the plan — a stale roadmap is worse
-than none.*
